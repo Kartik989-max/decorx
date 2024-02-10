@@ -2,7 +2,13 @@ body {
   font-family: "IBM Plex Sans", sans-serif;
   background-color: rgba(0, 0, 0, .1);
 }
-
+.navbar{
+  padding: 0;
+  margin: 0;
+}
+.contain-fluid a{
+  padding: 0;
+}
 .faq h2 {
   font-size: 2.4rem;
   font-weight: 600;
@@ -325,10 +331,52 @@ ul {
 
 @media only screen and (max-width: 600px) {
   .cardd {
-    margin: 1.2rem !important;
-    padding: 1rem !important;
+    margin: 2rem !important;
+    padding: 2rem !important;
   }
-
+  .main2_txt h1{
+    font-size: 1.2rem!important;
+  }
+  .main2_txt p{
+    font-size: 0.8rem!important;
+  }
+  .main2_txt button{
+    padding: 0.8rem!important;
+    margin: 1rem!important;
+    font-size: 0.81rem!important;
+  }
+  .main3{
+    padding: 2rem 0rem 1rem 0!important;
+  }
+  .main3 h1{
+    font-weight: 660!important;
+  }
+  .faq{
+    padding: 0rem!important;
+    margin: 0!important;
+  }
+  .about div p{
+    padding: 0 !important;
+    margin: 1rem 2rem !important;
+    
+  }
+  .faq h2{
+    font-size: 1.5rem!important;
+  }
+  .faq details{
+    width: 90%!important;
+    min-height: 5px;
+    max-width: 60rem;
+    padding: 20px 25px 20px 25px;
+  }
+  .about{
+    padding: 1rem!important;
+    margin: 1rem!important;
+    box-shadow: 4px 5px 12px 0px #00000045;
+  }
+  .carousel{
+    padding-top: 3rem;
+  }
   .card {
     width: auto !important;
   }
