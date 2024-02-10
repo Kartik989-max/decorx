@@ -478,4 +478,8 @@ ul {
   .main4 div p {
     margin: 0 !important;
   }
+  .footer-section{
+    padding: 1rem !important;
+    margin: 1rem !important;
+  }
 }
