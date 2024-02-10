@@ -494,7 +494,7 @@ ul {
   .carousel_img_on_mobile{
     display: block !important;
     min-width: 30rem !important;
-    min-height: 35rem !important;
+    max-height: 35rem !important;
   }
   .navbar-brand{
     font-size: 1rem !important;
