@@ -387,6 +387,12 @@ ul {
     font-weight: 660!important;
     font-size: 1rem!important;
   }
+  .main3 p{
+    font-size: 0.8rem !important;
+    opacity: 80% !important;
+    margin: 0 2rem;
+
+  }
   .faq{
     padding: 0rem!important;
     margin: 0!important;
@@ -481,5 +487,19 @@ ul {
   .footer-section{
     padding: 1rem !important;
     margin: 1rem !important;
+  }
+  .carousel_img_on_desktop{
+    display: none !important;
+  }
+  .carousel_img_on_mobile{
+    display: block !important;
+    min-width: 30rem !important;
+    min-height: 60rem !important;
+  }
+  .navbar-brand{
+    font-size: 1rem !important;
+  }
+  .nav-link{
+    font-size: 0.8rem;
   }
 }
