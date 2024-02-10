@@ -418,7 +418,7 @@ ul {
     box-shadow: 4px 5px 12px 0px #00000045;
   }
   .carousel{
-    padding-top: 3rem;
+    padding-top: 2rem;
   }
   .card {
     width: auto !important;
@@ -494,7 +494,7 @@ ul {
   .carousel_img_on_mobile{
     display: block !important;
     min-width: 30rem !important;
-    min-height: 60rem !important;
+    min-height: 35rem !important;
   }
   .navbar-brand{
     font-size: 1rem !important;
