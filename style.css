@@ -337,7 +337,7 @@ ul {
   }
   .contact-div{
     padding: 1rem 0rem !important;
-    width: 22rem !important;
+    width: auto !important;
   }
   .card-body p{
     font-size: 0.8rem!important;
