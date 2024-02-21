@@ -335,6 +335,10 @@ ul {
     margin: 2rem !important;
     padding: 1.5rem !important;
   }
+  .contact-div{
+    padding: 1rem 0rem !important;
+    width: 22rem !important;
+  }
   .card-body p{
     font-size: 0.8rem!important;
     opacity: 60%;
@@ -445,6 +449,8 @@ ul {
     padding: 0 !important;
     margin: 2.5rem !important;
     text-align: center !important;
+    display: block !important;
+    justify-content: center;
   }
   .main4 p br{
     display: none;
@@ -519,4 +525,17 @@ ul {
   .nav-link{
     font-size: 0.8rem;
   }
+}
+
+.nav-link, .dropdown-item{
+  font-size: 0.8rem;
+
+}
+.contact-form {
+  padding: 1.5rem 1rem;
+  margin: 0rem 0rem;
+}
+
+.contact-div {
+  padding: 4rem 0rem;
 }
